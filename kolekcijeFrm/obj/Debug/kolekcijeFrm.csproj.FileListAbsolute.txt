@@ -1,0 +1,11 @@
+C:\Users\Lovro\source\repos\kolekcijeFrm\kolekcijeFrm\obj\Debug\kolekcijeFrm.csproj.AssemblyReference.cache
+C:\Users\Lovro\source\repos\kolekcijeFrm\kolekcijeFrm\obj\Debug\kolekcijeFrm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lovro\source\repos\kolekcijeFrm\kolekcijeFrm\obj\Debug\kolekcijeFrm.Form1.resources
+C:\Users\Lovro\source\repos\kolekcijeFrm\kolekcijeFrm\obj\Debug\kolekcijeFrm.Properties.Resources.resources
+C:\Users\Lovro\source\repos\kolekcijeFrm\kolekcijeFrm\obj\Debug\kolekcijeFrm.csproj.GenerateResource.cache
+C:\Users\Lovro\source\repos\kolekcijeFrm\kolekcijeFrm\obj\Debug\kolekcijeFrm.csproj.CoreCompileInputs.cache
+C:\Users\Lovro\source\repos\kolekcijeFrm\kolekcijeFrm\bin\Debug\kolekcijeFrm.exe.config
+C:\Users\Lovro\source\repos\kolekcijeFrm\kolekcijeFrm\bin\Debug\kolekcijeFrm.exe
+C:\Users\Lovro\source\repos\kolekcijeFrm\kolekcijeFrm\bin\Debug\kolekcijeFrm.pdb
+C:\Users\Lovro\source\repos\kolekcijeFrm\kolekcijeFrm\obj\Debug\kolekcijeFrm.exe
+C:\Users\Lovro\source\repos\kolekcijeFrm\kolekcijeFrm\obj\Debug\kolekcijeFrm.pdb
